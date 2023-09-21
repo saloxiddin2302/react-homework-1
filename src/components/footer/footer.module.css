@@ -1,0 +1,180 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@100;200;300;400;500;600;800;900&display=swap");
+
+.footerStart {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+  padding: 80px 0;
+}
+
+.footerFirst {
+  display: flex;
+  flex-direction: column;
+}
+
+.footerHead {
+  max-width: 256px;
+  width: 100%;
+  font-family: "Roboto", sans-serif;
+  font-weight: 700;
+  font-size: 28px;
+  color: #211f54;
+}
+
+.footerText {
+  padding: 20px 0 50px;
+  max-width: 304px;
+  width: 100%;
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  font-size: 18px;
+  color: #6e7191;
+}
+
+.footerCubick {
+  display: flex;
+}
+
+.footerCub {
+  background-color: rgb(172, 172, 235);
+  width: 36px;
+  height: 36px;
+  margin: 0 5px;
+  border-radius: 10px;
+}
+/**/
+
+.secondHead {
+  width: 100%;
+  font-family: "Roboto", sans-serif;
+  font-weight: 700;
+  font-size: 28px;
+  color: #211f54;
+}
+
+.secondText {
+  padding: 50px 0 5px;
+  max-width: 259px;
+  width: 100%;
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  font-size: 18px;
+  color: #6e7191;
+}
+.secondNomber {
+  padding: 20px 0 10px;
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  font-size: 18px;
+  color: #6e7191;
+}
+.secondSocial {
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  font-size: 18px;
+  color: #6e7191;
+}
+
+/**/
+.footerThird {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.footerHour {
+  font-family: "Roboto", sans-serif;
+  font-weight: 700;
+  font-size: 28px;
+  color: #211f54;
+}
+.footerDay {
+  font-family: "Roboto", sans-serif;
+  font-weight: 700;
+  font-size: 22px;
+  color: #211f54;
+}
+.footerData {
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  font-size: 18px;
+  color: #6e7191;
+}
+
+.footerDay2 {
+  font-family: "Roboto", sans-serif;
+  font-weight: 700;
+  font-size: 22px;
+  color: #211f54;
+}
+
+.footerData2 {
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  font-size: 18px;
+  color: #6e7191;
+}
+/**/
+
+.footerFourth {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+
+.footerEnd {
+  font-family: "Roboto", sans-serif;
+  font-weight: 700;
+  font-size: 22px;
+  color: #211f54;
+}
+
+.footerEndNum {
+  font-family: "Roboto", sans-serif;
+  font-weight: 700;
+  font-size: 28px;
+  color: #0075ff;
+}
+
+.footerEndText {
+  max-width: 294px;
+  width: 100%;
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  font-size: 18px;
+  color: #6e7191;
+}
+
+.footerBtn {
+  background: #0075ff;
+  border: 1px solid #eff0f6;
+  box-shadow: 0px 4px 10px rgba(20, 20, 43, 0.04);
+  border-radius: 14px;
+  font-family: "Roboto", sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 18px;
+  text-align: center;
+  color: #ffffff;
+  transition: 0.5s;
+  padding: 26px 40px;
+  cursor: pointer;
+}
+
+.footerBtn:hover {
+  background: #211f54;
+  color: #ffffff;
+  box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.75);
+  -webkit-box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.75);
+  -moz-box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.75);
+}
+
+.footerCub:hover {
+  background: #211f54;
+  color: #ffffff;
+  box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.75);
+  -webkit-box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.75);
+  -moz-box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.75);
+}

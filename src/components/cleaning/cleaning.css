@@ -1,0 +1,44 @@
+.card-item{
+    display: flex;
+    gap: 10px;
+    align-items: center;
+}
+.cleaning-title h2{
+    color: #211F54;
+text-align: center;
+font-size: 48px;
+font-family: Roboto;
+font-weight: 700;
+line-height: 57.984px;
+}
+.cleaning-title{
+    text-align: center;
+}
+.cleaning-cards{
+    display: flex;
+    gap: 97px;
+    justify-content: center;
+    margin-top: 40px;
+}
+.card-item-el h4{
+    color: #6E7191;
+font-size: 16px;
+font-family: Roboto;
+line-height: 18px;
+letter-spacing: 1.6px;
+text-transform: uppercase;
+}
+.card-item-el p {
+    color: #211F54;
+font-size: 28px;
+font-family: Roboto;
+font-weight: 700;
+line-height: 36.008px;
+}
+.cleaning{
+    margin-top: 500px;
+}
+.cleaning-img{
+    text-align: center;
+    margin-top: 30px;
+}

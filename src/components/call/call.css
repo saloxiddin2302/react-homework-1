@@ -1,0 +1,90 @@
+.call-h2{
+    color: #211F54;
+font-size: 48px;
+font-family: Roboto;
+font-weight: 700;
+line-height: 57.984px;
+}
+.call-title{
+    width: 487.391px;
+height: 616px;
+flex-shrink: 0;
+display: flex;
+flex-direction: column;
+justify-content: center;
+position: relative;
+top: 100px;
+}
+.call-sw{
+    display: flex;
+    align-items: center;
+    gap: 50px;
+    position: relative;
+    right: 65px;
+}
+.call-fw{
+    margin-top: 115px;
+}
+.btn-sw{
+    margin-top: 20px;
+}
+.inputs{
+    width: 673px;
+height: 908px;
+flex-shrink: 0;
+border-radius: 16px;
+border: 1px solid #EFF0F6;
+background: #FFF;
+box-shadow: 0px 2px 6px 0px rgba(20, 20, 43, 0.04);
+display: flex;
+
+padding: 30px;
+}
+.inputs input{
+    width: 259px;
+height: 72px;
+border-radius: 16px;
+border: 1px solid #EFF0F6;
+background: #FFF;
+box-shadow: 0px 2px 12px 0px rgba(20, 20, 43, 0.08);
+}
+.inputs-w{
+    display: flex;
+    flex-direction: column;
+    gap: 70px;
+    margin: 30px;
+}
+.inputs h4{
+    color: #211F54;
+font-size: 18px;
+font-family: Roboto;
+line-height: 30.006px;
+margin-bottom: 10px;
+}
+.text-input input{
+    width: 551px;
+    height: 144px;
+    border-radius: 22px;
+border: 1px solid #EFF0F6;
+background: #FFF;
+box-shadow: 0px 2px 7px 0px rgba(20, 20, 43, 0.08);    
+}
+
+.text-input{
+    position: relative;
+    top: 540px;
+    right: 610px;
+}
+.btn-sq{
+    margin-top: 30px;
+}
+.call{
+    display: flex;
+    gap: 66px;
+    background: #F7F9FC;
+    padding: 100px;
+    width: 1440px;
+height: 1388px;
+flex-shrink: 0;
+margin-top: 200px;
+}

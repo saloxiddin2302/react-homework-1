@@ -1,0 +1,23 @@
+.makes-s{
+    display: flex;
+    gap: 58px;
+    margin-top: 40px;
+}
+.makes h2{
+    color: #211F54;
+font-size: 48px;
+font-family: Roboto;
+font-weight: 700;
+line-height: 57.984px;
+}
+
+
+.makes-btn{
+    margin-top: 30px;
+}
+.makes{
+    display: flex;
+}
+.makes-item{
+    margin-top: 200px;
+}

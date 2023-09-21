@@ -1,0 +1,32 @@
+.success{
+    display: flex;
+    align-items: center;
+}
+.lists{
+    display: flex;
+    gap: 68px;
+    margin-top: 50px;
+    
+}
+.office{
+    display: flex;
+}
+.office-item{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+}
+.office-item h2{
+    color: #211F54;
+font-size: 48px;
+font-family: Roboto;
+font-weight: 700;
+line-height: 57.984px;
+}
+.office-btn{
+    position: relative;
+    top: 40px;
+    right: 160px;
+}

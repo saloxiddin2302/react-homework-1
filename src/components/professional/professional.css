@@ -1,0 +1,52 @@
+.prof-title{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+.prof-title h2{
+    color: #211F54;
+font-size: 48px;
+font-family: Roboto;
+font-weight: 700;
+line-height: 57.984px;
+}
+.prof-card{
+    width: 360px;
+height: 470px;
+flex-shrink: 0;
+padding: 20px;
+border-radius: 16px;
+border: 1px solid #EFF0F6;
+background: #FFF;
+box-shadow: 0px 2px 6px 0px rgba(20, 20, 43, 0.04);
+text-align: center;
+display: flex;
+flex-direction: column;
+justify-content: center;
+
+}
+
+.prof-card h4{
+    color: #211F54;
+text-align: center;
+font-size: 24px;
+font-family: Roboto;
+font-weight: 700;
+line-height: 34.008px;
+position: relative;
+top: 20px;
+}
+.prof-card p{
+    position: relative;
+    top: 20px;
+}
+.prof-cards{
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    margin-top: 70px;
+}
+.professional{
+    margin-top: 480px;
+}
